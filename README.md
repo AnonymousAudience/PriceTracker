@@ -75,12 +75,13 @@ There are some precautions for using the software. It is recommended to read it 
 The following is the main interface of our small software, with related text prompts.  
 Click on a different button to bring up the corresponding text description.  
 **The yellow area is the input product URL area**. After the input is completed, click the “Confirm” button software to work normally.
-A related usage example will be explained in more detail in our demo video.  
-![First Look at Interface] (https://github.com/AnonymousAudience/PriceTracker/blob/master/Pics_Used/c.png)
+A related usage example will be explained in more detail in our demo video.    
+
+![First look at the interface](https://github.com/AnonymousAudience/PriceTracker/blob/master/Pics_Used/c.png)
 
 #### Principle introduction
 The project uses a relatively simple language aardio  
-(We are here to give aardio's official website: [arrdio official website] (http://www.aardio.com/), for your further understanding)  
+(We are here to give aardio's official website:[arrdio offical website](http://www.aardio.com/), for your further understanding)  
 
    > At first, our design concept is to use the Python language to crawl the price data of each e-commerce platform in real time, but because the e-commerce platform has anti-crawl protection measures for their own price data (especially for historical prices) In terms of). Moreover, Taobao Tmall now requires users to log in before browsing the product. Although this problem can be solved with python (requires the use of cookies on the user's computer), this is somewhat inconvenient.  
   
