@@ -10,7 +10,7 @@
 经常并且习惯在电商平台上购买商品的有着**了解商品以往价格来帮助决策的需求**的用户。  
 
 #### 使用方法
-1.首先打开我们软件的压缩包，进入到以下目录界面：（也可以先将整个文件进行解压再操作）  
+1.首先下载打开我们软件的压缩包（名为PriceTracker2），进入到以下目录界面：（也可以先将整个文件进行解压再操作）  
 
 （在此文件夹中同时包含了软件的源码，可以提供给有需求的用户修改软件XD）  
 
@@ -58,7 +58,7 @@ This is a lightweight, compact price tracker that queries historical price infor
 Users who are often and accustomed to purchasing goods on an e-commerce platform have users who understand the past price of the product to help make decisions.
 
 #### Instructions
-1. First open the compression package of our software, enter the following directory interface: (You can also decompress the entire file and then operate)
+1. First download and open the compression package of our software called  PriceTracker, enter the following directory interface: (You can also decompress the entire file and then operate)
 
 (In this folder, the source code of the software is also included, which can be provided to the user in need to modify the software XD)
 
