@@ -87,6 +87,6 @@ The project uses a relatively simple language aardio
   
    > So, we changed our mindset and found some websites that originally had historical price data for each e-commerce platform. We also noticed that the images on these websites have already been generated, so we can directly take screenshots of these websites and wait until we The desired result accomplishes the goal.  
 
-   > In the project source code, we mainly call the automated test script similar to webdriver in python. After the user enters the webpage and clicks the confirm button, the software will automatically open the Chrome browser and open the corresponding historical price website, and generate the local The test test window is automatically closed after the picture, leaving the user with the most direct experience.  
+   > In the project source code, we mainly call the automated test script similar to webdriver in python. After the user enters the webpage and clicks the confirm button, the software will automatically open the Chrome browser and open the corresponding historical price website, and the test window will automatically closed after generating the local picture, leaving the user with the most direct experience.  
 
 ### The basic content is introduced, thank you for your reading!
