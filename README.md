@@ -58,7 +58,7 @@ This is a lightweight, compact price tracker that queries historical price infor
 Users who are often and accustomed to purchasing goods on an e-commerce platform have users who understand the past price of the product to help make decisions.
 
 #### Instructions
-1. First download and open the compression package of our software called  PriceTracker, enter the following directory interface: (You can also decompress the entire file and then operate)
+1. First download and open the compression package of our software called  PriceTracker2, enter the following directory interface: (You can also decompress the entire file and then operate)
 
 (In this folder, the source code of the software is also included, which can be provided to the user in need to modify the software XD)
 
