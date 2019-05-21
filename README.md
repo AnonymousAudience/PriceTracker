@@ -14,20 +14,20 @@
 
 （在此文件夹中同时包含了软件的源码，可以提供给有需求的用户修改软件XD）  
 
-![]()
+![使用方法](https://github.com/AnonymousAudience/PriceTracker/blob/master/Pics_Used/a.jpg)
 
 2.在Publish文件夹中找到我们的目标：PriceTracker.exe  
 
 PriceTracker.exe是可执行程序，无需安装，点开即可运行。
 在运行之前我们可以在相同的目录下找到ReadmeBeforeUse.txt，里面有些使用该软件的注意事项，建议先进行阅读。  
-![]()
+![建议阅读](https://github.com/AnonymousAudience/PriceTracker/blob/master/Pics_Used/b.jpg)
 
 #### 界面初识
 以下就是我们这款小型软件的主要界面，上面有相关的文字提示。  
 点击不同的按钮即可弹出相应的文本介绍。  
 **黄色区域为输入商品网址区域**，输入完成后，点击“Confirm”按钮软件即可正常工作。  
 相关的使用示例在我们的演示视频中会有更详细的说明。
-![]()
+![界面初识](https://github.com/AnonymousAudience/PriceTracker/blob/master/Pics_Used/c.png)
 
 #### 原理介绍
 该项目使用的是一门目前比较简单的的语言 aardio  
