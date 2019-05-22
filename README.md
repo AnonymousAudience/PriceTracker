@@ -3,7 +3,8 @@
 # 价格追踪器
    这是PPT的地址: [ppt](https://github.com/AnonymousAudience/PriceTracker/blob/master/PriceTracker%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B.pptx)  
    
-   这是演示视频的地址:[视频]()  
+   这是演示视频的地址:[视频](https://pan.baidu.com/s/1vdo7CmGj_tfEGOVSUlHA9Q)  提取码：plrl   
+   
    
                                            
 ### 项目简介
@@ -59,6 +60,8 @@ PriceTracker.exe是可执行程序，无需安装，点开即可运行。
 # Price Tracker
 
  This is the where the ppt is stored: [ppt](https://github.com/AnonymousAudience/PriceTracker/blob/master/PriceTracker%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B.pptx)  
+ 
+ This is the demonstrate video:[视频](https://pan.baidu.com/s/1vdo7CmGj_tfEGOVSUlHA9Q)  提取码：plrl   
                                            
 ### Project Description
 #### Features
