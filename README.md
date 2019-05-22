@@ -57,6 +57,8 @@ PriceTracker.exe是可执行程序，无需安装，点开即可运行。
 ##### This is an introduction of the English version.
 
 # Price Tracker
+
+ This is the where the ppt is stored: [ppt](https://github.com/AnonymousAudience/PriceTracker/blob/master/PriceTracker%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B.pptx)  
                                            
 ### Project Description
 #### Features
