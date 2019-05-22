@@ -22,6 +22,10 @@ PriceTracker.exe是可执行程序，无需安装，点开即可运行。
 在运行之前我们可以在相同的目录下找到ReadmeBeforeUse.txt，里面有些使用该软件的注意事项，建议先进行阅读。  
 ![建议阅读](https://github.com/AnonymousAudience/PriceTracker/blob/master/Pics_Used/b.jpg)
 
+
+> 另外我们给出编译源代码文件方法：    
+
+ **打开压缩包中的aardio.7z，打开开发软件aardio.exe （无需安装，可直接打开）。在aardio中打开工程文件 default.aproj，按F5键即可运行。**
 #### 界面初识
 以下就是我们这款小型软件的主要界面，上面有相关的文字提示。  
 点击不同的按钮即可弹出相应的文本介绍。  
@@ -70,6 +74,11 @@ PriceTracker.exe is an executable program that you can run without having to ins
 Before running, we can find ReadmeBeforeUse.txt in the same directory.  
 There are some precautions for using the software. It is recommended to read it first.
 ![Recommended reading](https://github.com/AnonymousAudience/PriceTracker/blob/master/Pics_Used/b.jpg)
+
+
+> In addition, we give the method of compiling the source code file:  
+
+   **Open aardio.7z in the archive and open the development software aardio.exe (you can open it directly without installing it). Open the project file default.aproj in aardio and press F5 to run.**
 
 #### Interface first met
 The following is the main interface of our small software, with related text prompts.  
