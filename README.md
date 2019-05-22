@@ -1,8 +1,10 @@
     
     这是中文版本的介绍
 # 价格追踪器
-   这是PPT的地址:
-   这是演示视频的地址:
+   这是PPT的地址: [ppt](https://github.com/AnonymousAudience/PriceTracker/blob/master/PriceTracker%E9%A1%B9%E7%9B%AE%E7%AE%80%E4%BB%8B.pptx)  
+   
+   这是演示视频的地址:[视频]()  
+   
                                            
 ### 项目简介
 #### 功能介绍
